@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["thebluber@gmail.com"]
   spec.description   = "This is a small SAT solving tool for either DIMACS file input (max. 20 variables, 80 lines) or boolean expressions in string format i.e. '(x1 * (x3 + x4))'."
   spec.summary       = "SAT solver using DPLL algorithm"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/thebluber/dpll_solver"
   spec.license       = "MIT"
   
   resource_files = [
